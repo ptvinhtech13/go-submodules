@@ -1,4 +1,4 @@
-module module02/hello
+module github.com/ptvinhtech13/go-submodules/module02
 
 go 1.17
 
