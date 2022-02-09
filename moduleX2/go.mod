@@ -1,4 +1,4 @@
-module github.com/ptvinhtech13/go-submodules/module06X
+module github.com/ptvinhtech13/go-submodules/moduleX2
 
 go 1.17
 
