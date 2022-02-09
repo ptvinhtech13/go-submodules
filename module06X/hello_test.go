@@ -1,4 +1,4 @@
-package module02
+package module06X
 
 import "testing"
 
